@@ -1,3 +1,4 @@
 Yay!
 Brad testing command line commit.
 Change on GitHub repository.
+Brad responding to command line commit.
