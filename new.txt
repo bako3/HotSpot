@@ -1,2 +1,2 @@
 Yay!
-Brad testing a change.
+Brad testing commit in command line.
