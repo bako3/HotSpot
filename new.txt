@@ -1,9 +1,11 @@
-GitHub Command Line Commands:
+ï»¿GitHub Command Line Commands:
 git clone https://github.com/bako3/HotSpot.git
 -git pull
 git status
 git add -A or git add . or git add filename.ext
-git commit -m “write change message here”
+git commit -m â€œwrite change message hereâ€
 git push
 ljkasfo;zv/ol;dzv;Lxv
 added new line
+dljksd;jkasdlk;dasljk
+
