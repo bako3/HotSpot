@@ -5,3 +5,4 @@ git status
 git add -A or git add . or git add filename.ext
 git commit -m “write change message here”
 git push
+ljkasfo;zv/ol;dzv;Lxv
