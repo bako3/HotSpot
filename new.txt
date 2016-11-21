@@ -1,5 +1,3 @@
 Yay!
 Brad testing command line commit.
-Change on GitHub repository.
-Brad responding to command line commit.
 Here is a new line typed on 11/20/2016 8:55PM.
