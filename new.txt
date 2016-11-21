@@ -1,3 +1,7 @@
-Yay!
-Brad testing command line commit.
-Here is a new line typed on 11/20/2016 8:55PM.
+GitHub Command Line Commands:
+git clone https://github.com/bako3/HotSpot.git
+-git pull
+git status
+git add -A or git add . or git add filename.ext
+git commit -m “write change message here”
+git push
